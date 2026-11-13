@@ -4,4 +4,3 @@ Skill para criar e revisar ângulos, copys e anúncios a partir de desejos e est
 
 As instruções estão em [SKILL.md](SKILL.md). A skill foi criada para o contexto da QUAZE e menciona Thiago; adapte-a se necessário ao seu uso.
 
-A matriz é uma adaptação prática inspirada em um [Reel de Dakota Hermes](https://www.instagram.com/reel/DfXrim6xnyH/), não uma garantia de resultados.
