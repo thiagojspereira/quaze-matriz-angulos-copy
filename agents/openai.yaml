@@ -1,0 +1,4 @@
+interface:
+  display_name: "Matriz de Ângulos QUAZE"
+  short_description: "Crie ângulos, copys e anúncios com a matriz"
+  default_prompt: "Use a matriz de ângulos para criar copys e anúncios para minha oferta."
